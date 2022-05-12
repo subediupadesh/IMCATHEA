@@ -1,5 +1,5 @@
 # IMCATHEA
-IMCATHEA is a python based Graphical User Interface application capable of detecting IM phase in a High Entropy Alloy or Multi Principal Eelement Alloy system using Neural Network Algorithm.
+IMCATHEA is a python based Graphical User Interface application capable of detecting the IM phase in a High Entropy Alloy or Multi Principal Element Alloy system using a Neural Network Algorithm.
 
 ## For Linux User:
 Python with following libraries are needed to run the GUI application: pymatgen (v2022.0.16), matminer (v0.7.4), tensorflow (v2.2.0), pandas (v1.3.4), numpy (v1.21.2), tkinter (v8.6), sklearn (v1.0.1).
