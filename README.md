@@ -41,7 +41,7 @@ The stepwise process to predict the phase for an example case of "CrNbTiZr" MPEA
 ## How to cite IMCATHEA libraries:
 If you use IMCATHEA in your research, please cite:
 
-"Authors . Paper Title (2022)." DOI: 
+Subedi, U.; Coutinho, Y.A.; Malla, P.B.; Gyanwali, K.; Kunwar, A. Automatic Featurization Aided Data-Driven Method for Estimating the Presence of Intermetallic Phase in Multi-Principal Element Alloys. Metals 2022, 12, 964. https://doi.org/10.3390/met12060964
 
-## For the Full Open Access Paper:
-https://
+## For the Full Open Access Paper: 
+https://doi.org/10.3390/met12060964
