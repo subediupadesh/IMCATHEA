@@ -7,11 +7,9 @@ import sys, os
 import streamlit as st
 import numpy as np
 import pandas as pd
-from keras.layers import LeakyReLU, ReLU, Softmax
-# from tensorflow.keras.layers import LeakyReLU, ReLU, Softmax
+from tensorflow.keras.layers import LeakyReLU, ReLU, Softmax
 from pickle import load
-from keras.models import load_model
-# from tensorflow.keras.models import load_model
+from tensorflow.keras.models import load_model
 from sklearn.preprocessing import StandardScaler, RobustScaler
 
 from pymatgen.core.composition import Composition, Element
