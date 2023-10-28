@@ -1,7 +1,6 @@
 numpy==1.24.1
 pandas==1.5.3
-keras==2.11.0
 tensorflow==2.13.0
-sklearn==1.2.2
-pymatgen==2022.0.16
-matminer==0.7.4
+scikit-learn==1.2.2
+pymatgen==2023.5.10
+matminer==0.8.0
