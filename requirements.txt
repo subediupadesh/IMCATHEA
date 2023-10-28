@@ -1,0 +1,8 @@
+numpy==1.24.1
+scipy==1.9.3
+pandas==1.5.2
+keras==2.11.0
+tensorflow==2.11.0
+scikit-learn==1.2.2
+pymatgen==2023.5.10
+matminer==0.8.0
