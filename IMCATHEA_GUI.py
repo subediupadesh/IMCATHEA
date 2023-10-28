@@ -1,3 +1,8 @@
+### Code by Upadesh Subedi
+## If you use the result from this code or any part of this work, Please cite the paper:
+    ## Subedi, U.; Coutinho, Y.A.; Malla, P.B.; Gyanwali, K.; Kunwar, A. Automatic Featurization Aided Data-Driven Method for Estimating the Presence of Intermetallic Phase in Multi-Principal Element Alloys. Metals 2022, 12, 964. 
+    ## https://doi.org/10.3390/met12060964
+
 import sys, os
 #os.environ["CUDA_VISIBLE_DEVICES"]="-1"  
 
