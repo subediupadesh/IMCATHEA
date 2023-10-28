@@ -279,7 +279,7 @@ reset_button = st.button("RESET ALL", on_click=restart)
 Citation = '''
 <p style="color: white; font-size: 30px;">
 If you use the result from this code or any part of this work, Please cite our paper:
-<br><br>Subedi, U.; Coutinho, Y.A.; Malla, P.B.; Gyanwali, K.; Kunwar, A. Metals 2022, 12, 964.
+<br><br>Subedi, U., Coutinho, Y.A., Malla, P.B., Gyanwali, K., Kunwar, A. Metals 2022, 12, 964.
 <a href="https://doi.org/10.3390/met12060964" style="color: red; text-decoration: underline;" target="_blank">
 Automatic Featurization Aided Data-Driven Method for Estimating the Presence of Intermetallic Phase in Multi-Principal Element Alloys
 </a>
