@@ -7,15 +7,14 @@ Python with following libraries are needed to run the GUI application: pymatgen 
 "IMCATHEA_GUI.py" also needs 4 extra supporitng files (icon, standardizations, and model) to operate, which will be made available from the author upon reasonable request. 
 
 
-## For Windows User:
-Executable (.exe) file: 
+## For Web APP:
+Visit the website : https://imcathea.streamlit.app
 
-User can run "IMCATHEA_GUI.exe" wihout any softwares to be installed.
-
+And follow the steps below to run the app
 
 ## Procedure for using "IMCATHEA" GUI Application:
 
-Step 0. Open / Run "IMCATHEA_GUI.py" (for Linux users) & "IMCATHEA_GUI.exe" (for Windows users) file to open the GUI application
+Step 0. Open / Run "IMCATHEA_GUI.py" to open the GUI application
 
 Step 1. User need to select the No. of Elements/Components in the HEA where IM phase is to be detected, from the dropdown menu at the top left corner.
 		    After selection of element size/number (from 2 to 10),
