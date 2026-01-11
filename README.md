@@ -37,6 +37,15 @@ If the user makes errors while selecting any options from dropdown menu as sugge
 ## Video (YouTube) Tutorial for using IMCATHEA:
 The stepwise process to predict the phase for an example case of "CrNbTiZr" MPEA is shown in the YouTube video tutorial at: https://youtu.be/G3aHE1Wsmgk
 
+<table>
+  <tr>
+	<td>
+	  <strong>Using IMCATHEA</strong><br>
+	  <img src="How_To_Use_IMCATHEA.gif" alt="Using IMCATHEA" width="400"/>
+	</td>
+  </tr>
+</table>
+
 ## How to cite IMCATHEA libraries:
 If you use IMCATHEA in your research, please cite:
 
